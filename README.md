@@ -14,10 +14,10 @@ Unfortunately pi-hole doesn't have external whitelists (yet). Go through `allow.
 ## AdGuard Home
 
 ### Adding Firebog Rules
-You may add the Firebog Lists first. Replace the <adguard-host> and <adguard-port> placeholders in adguard-firebog.js and run the script in the DebugConsole (F12) of your browser (Firefox/Chrome). This will add the green lists of firebog to your AdLists (lists you may already have, won't get overriden or dupplicated).
+You may add the Firebog Lists first. Replace the `<adguard-host>` and `<adguard-port>` placeholders in `adguard-firebog.js` and run the script in the DebugConsole (F12) of your browser (Firefox/Chrome). This will add the green lists of firebog to your AdLists (lists you may already have, won't get overriden or dupplicated).
 
 ### Use this lists
 Add the Block/Allow lists in the corresponding pages in AdGuard Home
 
-Allow: https://raw.githubusercontent.com/metawave/dns-blocklists/main/allow.list
-Block: https://raw.githubusercontent.com/metawave/dns-blocklists/main/block.list
+ * Allow: https://raw.githubusercontent.com/metawave/dns-blocklists/main/allow.list
+ * Block: https://raw.githubusercontent.com/metawave/dns-blocklists/main/block.list
