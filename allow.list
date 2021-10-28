@@ -1,3 +1,9 @@
 #
-# services to allow
+# services and hosts to allow
 #
+
+! referals / links in newsletters to tamedia articles (derbund.ch)
+@@||click.mc.tamedia.ch^$important
+
+! Notion.so
+@@||notion.so^$important
