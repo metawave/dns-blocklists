@@ -3,11 +3,13 @@
 #
 
 ! derbund.ch
-@@||click.mc.tamedia.ch^$important
-@@||survey.tamedia.ch^$important
+@@||tamedia.ch^$important
 
 ! Notion.so
 @@||notion.so^$important
 
-! Grammarly for english spelling and grammar
-@@||grammarly.io^$important
+! Google Ads (will allow them, since they are not that obtrusive)
+@@||dartsearch.net^$important
+@@||ad.doubleclick.net^$important
+@@||adservice.google.com^$important
+@@||adservice.google.ch^$important
